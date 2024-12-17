@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AlarmManager" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+
+    <style name="Theme.AlarmManager" parent="Base.Theme.AlarmManager" />
+
+    <style name="FabAttributes" parent="Widget.Design.FloatingActionButton">
+        <item name="cornerSize">50%</item>
+    </style>
+
+</resources>

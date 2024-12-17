@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Alarm Manager</string>
+    <string name="pick_time">Выберите время</string>
+    <string name="cancel">Отменить</string>
+    <string name="create_a_alarm">Создать будильник</string>
+    <string name="reminder">Будильники &amp; Напоминания</string>
+    <string name="reminder_channel_desc">Это необходимо для отправки уведомления при срабатывании будильника.</string>
+    <string name="permission_denied">Доступ запрещен!</string>
+    <string name="ok">OK</string>
+    <string name="dismiss">Удалить</string>
+    <string name="close">Закрыть</string>
+    <string name="request_msg"><![CDATA[[Чтобы отправить уведомление при срабатывании будильника, разрешите AlarmManager отправлять уведомления. Нажмите «Настройки» > «Разрешения» и включите «Уведомления».]]></string>
+    <string name="settings">Настройки</string>
+    <string name="msg_missing_field">Заполните пропуски</string>
+    <string name="alarm_title">Название будильника</string>
+    <string name="alarm_message">Уведомления о будильнике</string>
+    <string name="stop">Остановить</string>
+</resources>
